@@ -1,0 +1,26 @@
+# =============== #
+# Unity generated #
+# =============== #
+/.vscode/
+.vsconfig
+/Library/
+/Logs/
+/obj/
+/Packages/
+/Temp/
+/Assets/LayaAir3D
+/Assets/StreamingAssets
+/Assets/BYTools
+# ===================================== #
+# vs Code #
+# ===================================== #
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+.vs
